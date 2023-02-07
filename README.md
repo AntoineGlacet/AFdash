@@ -1,5 +1,5 @@
 
-![PBI report](https://github.com/AntoineGlacet/AFdash/blob/main/AFdash_pbi.jpg?raw=true)
+![PBI report](https://github.com/AntoineGlacet/AFdash/blob/master/assets/AFdash_pbi.jpgraw=true)
 
 # dashboard from the AF pdf from mobile app
 
